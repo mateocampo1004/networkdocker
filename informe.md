@@ -15,6 +15,8 @@ Esta práctica tiene como finalidad comprender la interconexión de contenedores
 - `docker network create`: Para crear redes personalizadas.
 - `docker run`: Para ejecutar contenedores.
 - `docker ps`: Para administración de contenedores.
+- `docker network inspect`: Para verificar qué contenedores están conectados a una red.
+
 
 ## 4. Conocimientos previos
 
